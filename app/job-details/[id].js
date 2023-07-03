@@ -5,7 +5,7 @@ import {Stack, useRouter, useSearchParams} from 'expo-router';
 const JobDetails = () => {
   return (
     <Text>
-      Job Details
+      Job Details Page
     </Text>
   )
 }
